@@ -1,4 +1,4 @@
-# RNAseq_pipe_2022
+# starryRNA
 
 RNA-seq pipeline. 
 Aligner: STAR. It doesn't accept strandness information
